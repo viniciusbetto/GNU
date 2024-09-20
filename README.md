@@ -1,3 +1,7 @@
+# CONTACT
+- Vinicius Fernando Betto da Silva
+- viniciusbetto@gmail.com
+
 # APACHE create directories
 - Create /apache24/conf/alias
 - Create /cgi-bin/gnu
