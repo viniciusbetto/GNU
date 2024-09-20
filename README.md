@@ -33,3 +33,5 @@ Alias /img/ "C:/Apache24/cgi-bin/gnu/img/"
     Require all granted
 </Directory>
 
+# Copy /scripts/* to /Apache24/cgi-bin/gnu/scripts
+# Copy /img/* to /Apache24/cgi-bin/gnu/img
