@@ -1,0 +1,85 @@
+.container{
+    max-width: 1080px;
+    margin: 1rem auto;
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.container h2{
+    color: var(--blue-900);
+}
+
+.containerHeader{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+  
+.listOne{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+}
+
+.OneIten{
+    display: flex;
+    flex-direction: row;
+    background-color: var(--blue-900);
+    align-items: center;
+    border-radius: 0.3rem;
+    height: 40px;
+}
+
+.Link{
+    border: 0;
+    background: transparent;       
+    font-size: 12px;    
+    color: var(--white);
+    height: 40px;
+    max-height: 40px;
+    align-items: center;
+    display: flex;
+    font-weight: bold;
+}
+.Link:hover{
+    filter: contrast(0.9);
+    color: var(--yellow-900);
+} 
+
+.tag{
+    width: 9px;
+    background-color: var(--yellow-900);
+    height: 40px;
+    border-radius: 0.3rem 0 0 0.3rem;
+}
+
+.emptyList{
+    font-size: 1.2rem;
+    color: var(--gray-100);
+}
+
+.member{
+    margin-left: 10px;
+    text-align: left;
+    width: 250px;
+}
+
+.telephone{
+    margin-left: 10px;
+    text-align: left;
+    width: 200px;
+}
+
+.btNovo{
+    margin-top: 10px;
+    height: 25px;
+    font-size: small;
+}
+
+/* @media (max-width: 620px){
+    .Link{
+        width: 90%;
+    }
+  } */
