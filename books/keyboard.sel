@@ -1,0 +1,3 @@
+           select webinput assign to KEYBOARD
+               organization is line sequential
+               file status is fstatus.

@@ -1,0 +1,5 @@
+           select members assign to "./data/members"
+             organization indexed
+             access mode is dynamic
+             record key ch-members
+             file status is fstatus.               

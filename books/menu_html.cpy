@@ -1,0 +1,18 @@
+           display 
+               '<link rel="stylesheet" href="/scripts/menu.css">'
+               '<header class="headerContainer">'
+               '    <div class="headerContent">'
+               '        <a href="javascript:changeAction(' "'home.exe'" ')">'
+               '            <img src="/img/GNU.webp" width=120 height=100 alt="GNU Image">'
+               '        </a>'
+               '        <nav class="headerNav">'
+               '            <a href="javascript:changeAction(' "'home.exe'" ')">'
+               '                Home'
+               '            </a>'
+               '            <a href="javascript:changeAction(' "'login.exe'" ')">'
+               '                <img src="/img/logout.png" alt="Sair" />'
+               '            </a>'
+               '        </nav>'
+               '    </div>'
+               '</header>'
+           end-display.
